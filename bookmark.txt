@@ -1,0 +1,27 @@
+C tutorial progress log
+https://youtu.be/87SH2Cn0s9A?si=54lelYYyR5X2gWqr
+
+Date        Stop Time
+1/24/25     0:38:16     thru part 5
+1/26/24     1:45:59     thru part 25
+1/27/25     1:51:06     thru part 26
+2/2/25      2:26:00     thru part 34
+2/7/25      3:14:12     thru part 44
+2/16/25     4:05:00     complete
+
++++ Goals +++
+_X_     Complete C beginner tutorial on youtube
+_X_     Review code and lessons from ME 333 and ME 433
+___     Complete C++ beginner tutorial on youtube
+___     Figure out projects to do using C and C++
+
++++ Project Ideas +++
+
+- Look into leetcode/neetcode for practice stuff
+- Design and build a basic PIC microchip circuit on a PCB
+    - Essentially figure out how to recreate the PIC32DIP from ME333 and ME433 from scratch
+- Make the custom PIC circuit do stuff
+    - Listen to mic and perform FFT on signal with real-time visualizer
+- Figure out how to render 2D and 3D graphics using C++
+- Make a physics simulation using the 2D/3D visualizer
+- Write a gameboy emulator
