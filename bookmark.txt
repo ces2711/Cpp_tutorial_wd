@@ -6,6 +6,7 @@ Date        Stop Time
 5/14/25     0:32:14     thru part 4
 5/15/25     0:43:19     thru part 6
 5/17/25     1:14:14     thru part 13
+5/18/25     1:35:53     thru part 17
 
 C tutorial progress log
 https://youtu.be/87SH2Cn0s9A?si=54lelYYyR5X2gWqr
