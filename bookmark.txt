@@ -17,6 +17,7 @@ Date        Stop Time
 6/15/25     3:57:47     thru part 42
 7/22/25     4:46:27     thru part 49
 7/23/25     5:18:39     thru part 55
+8/4/25      6:00:00     complete
 
 C tutorial progress log
 https://youtu.be/87SH2Cn0s9A?si=54lelYYyR5X2gWqr
@@ -32,7 +33,7 @@ Date        Stop Time
 +++ Goals +++
 _X_     Complete C beginner tutorial on youtube
 _X_     Review code and lessons from ME 333 and ME 433
-___     Complete C++ beginner tutorial on youtube
+_X_     Complete C++ beginner tutorial on youtube
 ___     Visual Studio IDE tutorial
 ___     Console calculator project (tutorial)
 ___     3D rendering project (tutorial)
